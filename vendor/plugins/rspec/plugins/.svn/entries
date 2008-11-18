@@ -1,0 +1,19 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/plugins
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+mock_frameworks
+dir
+

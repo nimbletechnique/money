@@ -1,0 +1,42 @@
+<% 
+  expense_class = item.expense? ? 'expense' : 'income'
+  odd = @odd ? "odd" : ""
+  @odd = !@odd
+  @item = item
+%>
+<% 
+ edit = true if local_assigns[:edit].nil?
+%>
+<% content_tag :tr, :class => "item #{expense_class} #{odd}", 
+                    :id => "item_row_#{item.id}" do %>
+
+  <% with_options :script => true, :okText => 'Save Me', :cancelText => 'No Thanks' do |opts| %>
+    <td width='50'>
+      <%= item.inline_tx_date unless edit %>
+      <%= opts.in_place_editor_field :item, :inline_tx_date, {}  if edit %>
+    </td>
+    <td width='200'>
+      <%= item.name unless edit %>
+      <%= opts.in_place_editor_field :item, :name, {:rows => 1}, :script=>true if edit %>
+    </td>
+    <td width='100'>
+      <%= item.inline_amount unless edit %>
+      <%= opts.in_place_editor_field :item, :inline_amount, {}, :script=>true if edit %>
+    </td>
+    <td width='100'>
+      <%= item.inline_category unless edit %>
+      <%= opts.in_place_editor_field :item, :inline_category, {}, :script=>true if edit%>
+    </td>
+    <td width='100'>
+      <%= item.inline_memo unless edit %>
+      <%= opts.in_place_editor_field :item, :inline_memo, {}, :script=>true if edit %>
+    </td>
+    <% if edit %>
+    <td>
+      <%= link_to_remote 'delete', :url => item_path(item), :method => :delete, :confirm => 'Are you sure?' %>
+    </td>
+    <% end %>
+  <% end %>
+
+<% end %>
+

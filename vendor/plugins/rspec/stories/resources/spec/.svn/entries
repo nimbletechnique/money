@@ -1,0 +1,40 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/stories/resources/spec
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+example_group_with_should_methods.rb
+file
+
+
+
+
+2007-11-25T14:30:22.000000Z
+f9a5d27527c8f2817b33114d6b0a7384
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+simple_spec.rb
+file
+
+
+
+
+2007-11-25T14:30:22.000000Z
+6a03286ff1c15f1e8c6cab59b04f6d20
+2008-04-07T00:07:42.914396Z
+19
+collin
+

@@ -1,0 +1,67 @@
+8
+
+dir
+20
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/spec
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:08:20.962978Z
+20
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+models
+dir
+
+spec_helper.rb
+file
+21
+
+
+
+2008-04-07T00:20:59.000000Z
+f07add5173ba42989667037d82c3cf5d
+2008-04-07T00:51:32.691837Z
+21
+collin
+
+rcov.opts
+file
+
+
+
+
+2008-04-07T00:07:53.000000Z
+55fe73f43f74d4403124e54fb71bf05a
+2008-04-07T00:08:20.962978Z
+20
+collin
+
+graph_spec.rb
+file
+21
+
+
+
+2008-04-07T00:50:54.000000Z
+c8957fe4d79d98c7825bb0a8f9498f75
+2008-04-07T00:51:32.691837Z
+21
+collin
+
+spec.opts
+file
+
+
+
+
+2008-04-07T00:07:53.000000Z
+e84d3ec3fb8c08e9a3ee5b46eb9ec3dd
+2008-04-07T00:08:20.962978Z
+20
+collin
+

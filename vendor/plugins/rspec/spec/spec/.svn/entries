@@ -1,0 +1,79 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/spec/spec
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+extensions
+dir
+
+interop
+dir
+
+story
+dir
+
+runner_spec.rb
+file
+
+
+
+
+2007-08-26T00:02:39.000000Z
+17c2deb89420a08cae2e1ad0ad0c79ba
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+translator_spec.rb
+file
+
+
+
+
+2007-12-01T15:13:38.000000Z
+38b51768bd5bf541e189e92213efeec2
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+expectations
+dir
+
+matchers
+dir
+
+runner
+dir
+
+spec_classes.rb
+file
+
+
+
+
+2008-01-28T02:39:59.000000Z
+d117bbde1949673089d3944f95409a9a
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+example
+dir
+
+package
+dir
+
+mocks
+dir
+

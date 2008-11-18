@@ -1,0 +1,100 @@
+8
+
+dir
+4
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-03-23T02:30:34.910537Z
+4
+collin
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d53a2050-f862-11dc-b693-7f7d63b74a60
+
+test
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2008-03-22T22:57:49.729345Z
+1
+collin
+
+db
+dir
+
+stories
+dir
+
+spec
+dir
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+d6c1fbcf028923cc0480fff4ab459a21
+2008-03-22T22:57:49.729345Z
+1
+collin
+
+Capfile
+file
+8
+
+
+
+2008-03-23T21:50:54.000000Z
+d3c3576398a4876c920553b714bc177f
+2008-03-23T21:55:33.613601Z
+8
+collin
+
+script
+dir
+
+config
+dir
+
+doc
+dir
+
+lib
+dir
+
+public
+dir
+

@@ -1,0 +1,76 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/spec_resources/controllers
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+action_view_base_spec_controller.rb
+file
+
+
+
+
+2007-06-24T13:48:26.000000Z
+016184e508bab0a38dc16587f358c11e
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+redirect_spec_controller.rb
+file
+
+
+
+
+2007-04-29T06:30:53.000000Z
+c75019ea6736a7e9ea50fa77f9d4e3f1
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+controller_spec_controller.rb
+file
+
+
+
+
+2008-01-25T13:41:37.000000Z
+c2fd823f90d902e2a2744027a15988de
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+rjs_spec_controller.rb
+file
+
+
+
+
+2007-04-02T18:40:35.000000Z
+d6b3ad9ae6f3cc7ccd08e421e2b8bca6
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+render_spec_controller.rb
+file
+
+
+
+
+2008-01-21T07:59:07.000000Z
+19a46a910924abbd0b421d67e32f4e7b
+2008-04-07T00:07:42.914396Z
+19
+collin
+

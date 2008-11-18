@@ -1,0 +1,28 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/spec/spec/expectations/differs
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+default_spec.rb
+file
+
+
+
+
+2007-09-22T09:47:55.000000Z
+5d5fe34e1ac5a9630ceb2d9a8576dd2d
+2008-04-07T00:07:42.914396Z
+19
+collin
+

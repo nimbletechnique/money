@@ -1,0 +1,94 @@
+8
+
+dir
+4
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/config
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-03-23T02:30:34.910537Z
+4
+collin
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d53a2050-f862-11dc-b693-7f7d63b74a60
+
+routes.rb
+file
+22
+
+
+
+2008-04-09T01:28:00.000000Z
+24311d2e8d9922af5e1aeb8fdda96f7d
+2008-04-09T01:44:37.546697Z
+22
+collin
+
+boot.rb
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+62fe46fd028f9df081e4ec9eb85968c0
+2008-03-22T22:57:49.729345Z
+1
+collin
+
+initializers
+dir
+
+environment.rb
+file
+18
+
+
+
+2008-04-03T00:12:37.000000Z
+b8aa71ded0b8b6fdd4e5b139dfe9a4a1
+2008-04-03T00:16:08.226310Z
+18
+collin
+
+environments
+dir
+
+database.yml.example
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+bbef680f98eb4d3e714013b205c6ce3a
+2008-03-22T22:57:49.729345Z
+1
+collin
+
+deploy.rb
+file
+24
+
+
+
+2008-05-24T18:23:11.000000Z
+3985e737ab22429c3670d69e27a57fd7
+2008-05-24T18:23:38.136695Z
+24
+collin
+

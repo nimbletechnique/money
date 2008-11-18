@@ -1,0 +1,88 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/spec/rails/matchers
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+redirect_to_spec.rb
+file
+
+
+
+
+2007-11-26T01:40:11.000000Z
+d5215a0f3b1119bde34d054811c49bff
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+have_text_spec.rb
+file
+
+
+
+
+2007-12-19T11:31:55.000000Z
+3c73fe5482a917680372543513e81d21
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+errors_on_spec.rb
+file
+
+
+
+
+2007-07-07T21:27:46.000000Z
+5c3c3322f003c8e73725a9de2d0487b7
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+description_generation_spec.rb
+file
+
+
+
+
+2007-12-03T07:25:26.000000Z
+bad0a7596fb9b151cd883c66097be033
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+render_spec.rb
+file
+
+
+
+
+2008-01-21T07:59:07.000000Z
+b7a651a870968f709bdbd04547393d25
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+assert_select_spec.rb
+file
+
+
+
+
+2007-11-26T01:40:11.000000Z
+cc0a129fe8daa39bf91943745ce88f7d
+2008-04-07T00:07:42.914396Z
+19
+collin
+

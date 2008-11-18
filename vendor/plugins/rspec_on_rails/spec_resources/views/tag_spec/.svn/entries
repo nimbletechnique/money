@@ -1,0 +1,52 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/spec_resources/views/tag_spec
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+no_tags.rhtml
+file
+
+
+
+
+2006-10-21T14:14:28.000000Z
+d067e83b6a5a2c84d8ffbc6be7a6825f
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+single_div_with_no_attributes.rhtml
+file
+
+
+
+
+2006-10-21T14:14:28.000000Z
+f9df91370d9b344946e23cbcd6a1541f
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+single_div_with_one_attribute.rhtml
+file
+
+
+
+
+2006-10-21T14:14:28.000000Z
+e4d6f18b3689651870f990c875cf643a
+2008-04-07T00:07:42.914396Z
+19
+collin
+

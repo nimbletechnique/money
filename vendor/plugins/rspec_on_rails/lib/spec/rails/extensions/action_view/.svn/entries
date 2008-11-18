@@ -1,0 +1,28 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/lib/spec/rails/extensions/action_view
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+base.rb
+file
+
+
+
+
+2007-11-18T20:09:06.000000Z
+4bab16f662a228ce2d954ddffb6be72c
+2008-04-07T00:07:42.914396Z
+19
+collin
+

@@ -1,0 +1,67 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/lib/spec/interop/test/unit
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+testresult.rb
+file
+
+
+
+
+2007-11-24T17:38:49.000000Z
+576fc26452bd18d6df6c4a9b14082866
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+autorunner.rb
+file
+
+
+
+
+2007-09-26T05:22:19.000000Z
+2fecc8bfe2828c236d96be53d2b467d4
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+testsuite_adapter.rb
+file
+
+
+
+
+2007-12-10T22:46:11.000000Z
+7ab0e1b0534abe30185b50af35e01a0d
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+testcase.rb
+file
+
+
+
+
+2007-12-10T22:46:11.000000Z
+45f03bdf92cc5fd84e297641058f435b
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+ui
+dir
+

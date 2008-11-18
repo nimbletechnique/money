@@ -1,0 +1,16 @@
+<h2>
+  Expenses for <%= time_to_current_month(@time) %> :
+  <%= number_to_currency @expense_categories.inject(0) {|sum,category_item| 
+        sum + category_item[:items].inject(0) {|sum,item| sum + item.amount }
+      } 
+  %>
+</h2>
+<% @expense_categories.each do |category_item| %>
+  <h3>
+    <%= category_item[:category_name] %> : 
+    <%= number_to_currency category_item[:items].inject(0) {|sum,item| sum + item.amount } %>
+  </h3>
+  <% items_table do %>
+    <%= render :partial => 'item', :collection => category_item[:items] %>
+  <% end %>
+<% end %>

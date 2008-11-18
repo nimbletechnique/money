@@ -1,0 +1,52 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/lib/spec/story/extensions
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+main.rb
+file
+
+
+
+
+2007-11-08T12:05:46.000000Z
+4576ba378e25f4b4605fdef8c510398f
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+string.rb
+file
+
+
+
+
+2008-01-15T04:07:16.000000Z
+cb666f81242ecbe95cc31c6b508be287
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+regexp.rb
+file
+
+
+
+
+2008-01-15T04:07:16.000000Z
+2f798830f0a530eaef317bf4fbf3b2f5
+2008-04-07T00:07:42.914396Z
+19
+collin
+

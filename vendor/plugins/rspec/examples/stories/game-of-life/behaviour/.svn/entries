@@ -1,0 +1,34 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/examples/stories/game-of-life/behaviour
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+everything.rb
+file
+
+
+
+
+2007-08-28T18:50:11.000000Z
+beaf2307a07600bf52ace4d05a3ff47f
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+stories
+dir
+
+examples
+dir
+

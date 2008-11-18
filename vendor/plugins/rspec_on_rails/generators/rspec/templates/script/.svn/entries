@@ -1,0 +1,40 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/generators/rspec/templates/script
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+spec_server
+file
+
+
+
+
+2007-12-11T05:54:42.000000Z
+15e21bea8c9b62ed82c47c42b960b190
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+spec
+file
+
+
+
+
+2007-10-08T16:26:13.000000Z
+3b01b40d35973243f354ede2a22a43fa
+2008-04-07T00:07:42.914396Z
+19
+collin
+

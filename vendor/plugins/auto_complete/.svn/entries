@@ -1,0 +1,58 @@
+8
+
+dir
+22
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/auto_complete
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-09T01:44:37.546697Z
+22
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-04-09T00:55:32.000000Z
+705a89824a98485e70202ea52528c61c
+2008-04-09T01:44:37.546697Z
+22
+collin
+
+init.rb
+file
+
+
+
+
+2008-04-09T00:55:32.000000Z
+bcf4ca5abe5686688244b12bce018e24
+2008-04-09T01:44:37.546697Z
+22
+collin
+
+lib
+dir
+
+README
+file
+
+
+
+
+2008-04-09T00:55:32.000000Z
+fb23a17d26849791cce5930621981272
+2008-04-09T01:44:37.546697Z
+22
+collin
+

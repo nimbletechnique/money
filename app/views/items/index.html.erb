@@ -1,0 +1,15 @@
+<h2>Items for <%= time_to_current_month(@time) %> <%= image_tag 'ajax-loader.gif', :id => 'ajax-loader', :style => 'display: none;' %></h2>
+<div id='item_form_div'>
+  <%= render :partial => 'form', :locals => {:expense => true, :time=>@time }%>
+</div>
+
+<h3>Income</h3>
+<div id='income'>
+  <%= render :partial => 'items', :object => @income_items, :locals => {:edit => true} %>
+</div>
+
+<h3>Expenses </h3>
+<div id='expenses'>
+  <%= render :partial => 'items', :object => @expense_items, :locals => {:edit => true} %>
+</div>
+

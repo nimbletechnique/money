@@ -1,0 +1,152 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec/lib/spec
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+interop
+dir
+
+story
+dir
+
+story.rb
+file
+
+
+
+
+2007-12-01T15:13:38.000000Z
+4ab3d712b369a8c7cbf667ad1e3349c8
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+rake
+dir
+
+version.rb
+file
+
+
+
+
+2008-01-31T12:29:22.000000Z
+05dca3bb88d685b206408d50c7a15ad2
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+translator.rb
+file
+
+
+
+
+2007-06-07T22:00:14.000000Z
+60e5faba8cdd949f28ffb81bfa7702b9
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2007-12-10T22:46:11.000000Z
+1888abbe600172268cd019c50614853e
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+extensions
+dir
+
+extensions.rb
+file
+
+
+
+
+2007-12-05T19:06:05.000000Z
+7668881d7ccc7b13fe82d5850c487814
+2008-04-07T00:07:42.914396Z
+19
+collin
+has-props
+
+expectations
+dir
+
+matchers
+dir
+
+expectations.rb
+file
+
+
+
+
+2007-06-03T22:49:21.000000Z
+eaa26a937cfea67588c81da8651cfff8
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+matchers.rb
+file
+
+
+
+
+2007-12-29T01:55:12.000000Z
+b053febbe15d1baada0b1849ed1ad5ec
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+runner
+dir
+
+runner.rb
+file
+
+
+
+
+2008-01-20T06:52:21.000000Z
+6f5a8674c13943efaa2734d1b18f6ac6
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+mocks
+dir
+
+mocks.rb
+file
+
+
+
+
+2007-09-01T13:20:15.000000Z
+d7ce53899cef69dd54d4fa826ff18be1
+2008-04-07T00:07:42.914396Z
+19
+collin
+

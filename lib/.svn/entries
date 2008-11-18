@@ -1,0 +1,67 @@
+8
+
+dir
+4
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/lib
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-03-23T00:21:25.735747Z
+2
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d53a2050-f862-11dc-b693-7f7d63b74a60
+
+authenticated_test_helper.rb
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+d0ca5663f200a5f7c1e5a8c9720f2a98
+2008-03-23T00:21:25.735747Z
+2
+collin
+
+graph.rb
+file
+21
+
+
+
+2008-04-07T00:36:49.000000Z
+e928b681a2fc43add43d6b9121c700af
+2008-04-07T00:51:32.691837Z
+21
+collin
+
+tasks
+dir
+
+authenticated_system.rb
+file
+
+
+
+
+2008-03-23T03:40:11.000000Z
+22d2044b702c841046b2627cd50427a9
+2008-03-23T00:21:25.735747Z
+2
+collin
+

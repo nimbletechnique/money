@@ -1,0 +1,4 @@
+<h4>Total: <%= number_to_currency(items.inject(0) {|sum,item| sum + item.amount}) %></h4>
+<% items_table do %>
+  <%= render :partial => 'item', :collection => items %>
+<% end %>

@@ -1,0 +1,57 @@
+<% 
+  @item ||= Item.new
+  unless @item.tx_date
+    if [@time.month,@time.year] == [Time.now.month,Time.now.year]
+      @item.tx_date = Time.now
+    else
+      @item.tx_date = @time.change :day=>1
+    end
+  end
+%>
+<% form_remote_for :item, (@item||Item.new), :url => {}, :html => {:id => 'item_form'} do |form| %>
+<table>
+  <tr class='item_field_row'>
+    <td>
+      <%= form.text_field :inline_tx_date, :size => 10 %>
+    </td>
+    <td>
+      <%= text_field_with_auto_complete :item, :name, {:size => 25, :autocomplete => :off }, {:method => :get, :frequency => 0.25, :indicator => 'ajax-loader'} %>
+    </td>
+    <td>
+      <%= form.text_field :amount, :size => 10 %>
+    </td>
+    <td>
+      <%= text_field_with_auto_complete :item, :form_category, {:size => 15, :autocomplete => :off }, {:method => :get, :frequency => 0.25, :indicator => 'ajax-loader'} %>
+    </td>
+    <td>
+      <%= form.text_field :memo, :size => 15 %>
+    </td>
+    <td>
+      <%= form.check_box :expense %> Expense
+    </td>
+  </tr>
+  <tr class='item_label_row'>
+    <td>
+      Date
+      <%= error_message_on :item, :tx_date %>
+    </td>
+    <td>
+      Name
+      <%= error_message_on :item, :name %>
+    </td>
+    <td>
+      Amount
+      <%= error_message_on :item, :amount %>
+    </td>
+    <td>
+      Category
+      <%= error_message_on :item, :category %>
+    </td>
+    <td>
+      Memo
+      <%= error_message_on :item, :memo %>
+    </td>
+  </tr>
+</table>
+<%= submit_tag 'Add Transaction' %>
+<% end %>

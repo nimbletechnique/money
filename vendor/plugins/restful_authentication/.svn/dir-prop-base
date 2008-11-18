@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 1
+1
+K 22
+piston:remote-revision
+V 4
+3173
+K 11
+piston:root
+V 68
+http://svn.techno-weenie.net/projects/plugins/restful_authentication
+K 11
+piston:uuid
+V 36
+567b1171-46fb-0310-a4c9-b4bef9110e78
+END

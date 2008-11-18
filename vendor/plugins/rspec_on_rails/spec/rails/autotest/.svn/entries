@@ -1,0 +1,40 @@
+8
+
+dir
+19
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money/vendor/plugins/rspec_on_rails/spec/rails/autotest
+svn+ssh://collin@gluedtomyseat.com/usr/local/svn/repo/money
+
+
+
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+
+svn:special svn:externals svn:needs-lock
+
+rails_rspec_spec.rb
+file
+
+
+
+
+2007-08-12T22:39:14.000000Z
+419f88062d7f5597b7f214ae074e2bff
+2008-04-07T00:07:42.914396Z
+19
+collin
+
+mappings_spec.rb
+file
+
+
+
+
+2008-01-31T12:08:39.000000Z
+cf366a0c64cf47e95d8e9965a7e89798
+2008-04-07T00:07:42.914396Z
+19
+collin
+
